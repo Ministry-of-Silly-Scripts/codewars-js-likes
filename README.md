@@ -1,8 +1,8 @@
-# Vowel Count kata (Jaguars)
+# Who likes it? 
 
-Vowel Count kata performed by the Jaguars cohort
+Who likes it? kata performed to train TDD
 
-[Vowel Count on CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+[Who likes it? on CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ## Prerequisites
 

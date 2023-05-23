@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const likes = () => true;
 
 module.exports = {
-  placeholder,
+  likes,
 };
