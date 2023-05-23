@@ -1,0 +1,21 @@
+{
+  "name": "jaguars-vowel-count",
+  "version": "1.0.0",
+  "description": "Vowel Count kata performed by the Jaguars cohort",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:xpfarm/jaguars-vowel-count.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
