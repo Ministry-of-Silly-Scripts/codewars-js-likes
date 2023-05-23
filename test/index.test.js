@@ -1,5 +1,7 @@
 const { likes } = require("../src/index");
 
-test("test likes", () => {
-  expect(likes(0)).toBe(true);
+describe("likes", () => {
+  test("it should return 'no one likes this' for any input", () => {
+    expect(likes([])).toBe('no one likes this');
+  });
 });
