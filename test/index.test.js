@@ -16,4 +16,8 @@ describe("likes", () => {
   test("it should return 'Max, Jacob and Alex like this' for an input with three elements: ['Max', 'Jacob', 'Alex']", () => {
     expect(likes(["Max", "Jacob", "Alex"])).toBe('Max, Jacob and Alex like this');
   })
+
+  test("it should return 'Max, Jacob and 2 others like this' for an input with 4 elements: ['Max', 'Jacob', 'Alex', 'Mark']", () => {
+    expect(likes(["Max", "Jacob", "Alex", "Mark"])).toBe('Max, Jacob and 2 others like this');
+  })
 });

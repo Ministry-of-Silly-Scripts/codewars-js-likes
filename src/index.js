@@ -10,6 +10,11 @@ const likes = (names) => {
   if (names.length === 3) {
     return names[0] + ", " + names[1] + " and " + names[2] + " like this";
   } 
+
+  if (names.length === 4) {
+    return names[0] + ", " + names[1] + " and 2 others like this";
+  } 
+
   return 'no one likes this';
 };
 
