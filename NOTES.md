@@ -51,4 +51,4 @@ TODO:
 - it should return "Max, Jacob and Alex like this" for an input with three elements: ["Max", "Jacob", "Alex"] ✅
 - it should return "Max, Jacob and 2 others like this" for an input with four elements: ["Max", "Jacob", "Alex", "Mark"] ✅
 - it should return "Max, Jacob and X others like this" for an input with four elements or more: ["Max", "Jacob", "Alex", "Mark", "Jonh"] where X is the length of the array minus - 2 ✅
-- refactor: use of string interpolation
+- refactor: use of string interpolation ✅
