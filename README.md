@@ -1,6 +1,6 @@
 # Who likes it? 
 
-Who likes it? kata performed to train TDD
+Who likes it? kata performed to train TDD (part of Jaguars training at IBM)
 
 [Who likes it? on CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
